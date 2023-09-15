@@ -10,5 +10,5 @@ python:
   version: "3.9"
   install:
     - method: pip
-      path: source
+      path: .
     - requirements: source/requirements.txt
