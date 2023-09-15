@@ -6,3 +6,9 @@ build-backend = "flit_core.buildapi"
 name = "HPCdocs"
 authors = [{name = "PabloGM", email = "PabloGM@HPCdocs"}]
 dynamic = ["version", "description"]
+
+[project.optianl-dependecies]
+
+doc = [
+    "sphinx~=7.2.5",
+]
