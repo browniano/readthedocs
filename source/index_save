@@ -1,0 +1,41 @@
+
+.. python_R_environments documentation master file, created by
+   sphinx-quickstart on Mon Sep 11 10:31:25 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+Instalación de paquetes R y python en directorios de usuario
+############################################################
+
+
+
+Indices y tablas
+=================
+
+* :ref:`genindex`
+* :ref:`search`
+
+.. * :ref:`modindex`
+
+
+Entornos de python
+==================
+
+
+Entornos de R
+=============
+
+.. highlight:: bash
+   :linenothreshold: 1
+
+A cool bit of code::
+
+	$ module load R
+	$ R
+
