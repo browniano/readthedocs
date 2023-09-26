@@ -1,3 +1,3 @@
 # readthedocs
 Some docs. for lazy scientists.
-# browniano.github.io
+The md sphinx etc file setup needed for readthedocs
