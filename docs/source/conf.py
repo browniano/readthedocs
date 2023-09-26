@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 #project = 'python_R_environments'
-project = 'HPC'
+project = 'HPCdocs'
 copyright = '2023, Pablo L. García-Müller'
 author = 'Pablo L. García-Müller'
 
