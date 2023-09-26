@@ -1,3 +1,5 @@
 sphinx
 myst-parser
 furo
+sphinx-rtd-theme
+
