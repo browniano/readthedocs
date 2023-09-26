@@ -1,6 +1,0 @@
-furo
-myst-parser
-sphinx~=7.2.5
-notebook
-rise
-
