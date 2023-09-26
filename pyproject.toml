@@ -11,6 +11,3 @@ dynamic = ["version", "description"]
 
 doc = ["sphinx"]
 
-packages = [
-    { include = "HPdocs" },
-]
